@@ -33,6 +33,12 @@ See instructions. Delete this line and place your Product Vision Statement here.
 8. As a student, I want to block another user so they can't interact with me.
 
 9. As a student, I want to comment on my friend's post, so that I can react to their workout.
+   
+10. As a student, I want to see a feed of posts from other gym-goers, so that I feel more connected to the NYU gym community.
+
+11. As a student, I want to filter my feed to view either only my friends' posts or posts from the broader gym community.
+
+12. As a student, I want to discover new people to work out with so that going to the gym feels more social and motivating.
 
 ## Activity Diagrams
 
