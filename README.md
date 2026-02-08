@@ -28,6 +28,12 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 6. As a student, I want to delete my account, so that I can leave the platform.
 
+7. As a student, I want to accept a friend request, so that they can see my posts and I can see theirs.
+
+8. As a student, I want to block another user so they can't interact with me.
+
+9. As a student, I want to comment on my friend's post, so that I can react to their workout.
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
