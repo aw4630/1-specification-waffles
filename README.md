@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+1. Vincent Campanaro, vac9827 - "https://github.com/vincentcamp"
+2. Ermuun Bayartsaikhan, eb4500 - "https://github.com/ermuun0930"
+3. Laura Liu, yl10127 - "https://github.com/lauraliu518"
+4. Luke Sribhud, ls6540 - "https://github.com/lukeysan"
+5. Alan Wu aw4630 - ""
 
 ## Stakeholders
 
